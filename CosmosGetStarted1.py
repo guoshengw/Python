@@ -1,6 +1,6 @@
 from pydocumentdb import document_client
 
-uri = 'https://001007d1-0ee0-4-231-b9ee.documents.azure.com:443/'
+uri = ''
 key = 'TwTqcL2eQb21pelkAZacrfoqTvtBSvivaZgz3sH7AIze3ivpqxpNOJsM0mfdTb3p8cIhnkiObdqzwrECJLj2bQ=='
 
 client = document_client.DocumentClient(uri, {'masterKey': key})

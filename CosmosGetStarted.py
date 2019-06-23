@@ -6,7 +6,7 @@ import datetime
 import samples.Shared.config as cfg
 
 config = {
-    'ENDPOINT': 'https://001007d1-0ee0-4-231-b9ee.documents.azure.com:443/',
+    'ENDPOINT': '',
     'PRIMARYKEY': 'TwTqcL2eQb21pelkAZacrfoqTvtBSvivaZgz3sH7AIze3ivpqxpNOJsM0mfdTb3p8cIhnkiObdqzwrECJLj2bQ==',
     'DATABASE': 'db1',
     'CONTAINER': 'employee'
